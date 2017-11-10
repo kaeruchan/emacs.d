@@ -1,0 +1,4 @@
+source .bashrc
+
+export C_INCLUDE_PATH=~/Dropbox/programming/header:$C_INCLUDE_PATH
+export LIBRARY_PATH=~/Dropbox/programming/header:$LIBRARY_PATH

@@ -1,0 +1,6 @@
+;; -*- emacs-lisp -*- <15/11/16 15:28:55 /Users/hori/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["su" "root" "hori-no-iMac.local" nil nil]
+  nil))

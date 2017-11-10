@@ -1,0 +1,1 @@
+(setenv "PATH" ":/Users/yoshito/AFsp-v9r0/bin:/Users/yoshito/MyProgram:/usr/local/bin:/usr/local/sbin:/opt/local/bin:/Users/yoshito/anaconda/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/usr/texbin:/opt/local/bin")

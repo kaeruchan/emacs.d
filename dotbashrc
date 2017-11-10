@@ -1,0 +1,28 @@
+# 'ls' color setting
+export LSCOLORS="ExFxCxDxBxEGEDABAGACAD"
+
+# set aliases
+alias ls='\ls -FGv'
+alias ll='\ls -lhaGv'
+alias la='\ls -aGv'
+
+alias rm="rm -i"
+alias cp="cp -i"
+alias mv="mv -i"
+alias carbonemacs="open -a /Applications/Emacs.app"
+alias f='finder.sh'
+alias bon="open -a Xcode"
+
+#プロンプト
+PS1="\[\033[34;1m\]\W> \[\033[0;0m\]"
+
+#~/scriptにスクリプトを入れることができます
+#~/binにぷろぐらむを入れることができます
+PATH="/opt/local/bin:${HOME}/bin:${HOME}/script:${PATH}"
+
+
+
+#↓これなんのためにやったんだっけ？わすれてもうた。
+#sshの設定 
+#alias ssh="/usr/local/bin/ssh"
+
